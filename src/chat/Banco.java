@@ -1,4 +1,4 @@
-package chateadosDrive;
+package chat;
 
 import java.io.PrintStream;
 import java.net.Socket;
