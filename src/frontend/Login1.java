@@ -1,4 +1,4 @@
-package chat;
+package frontend;
 
 import java.awt.Color;
 import java.awt.Font;

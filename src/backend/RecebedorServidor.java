@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chat;
+package backend;
 
+import backend.Banco;
+import frontend.Cliente;
 import java.io.InputStream;
 import java.io.PrintStream;
 import java.net.Socket;

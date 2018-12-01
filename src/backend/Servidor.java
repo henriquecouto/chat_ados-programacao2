@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chat;
+package backend;
 
 /**
  *
  * @author italo
  */
+import backend.Banco;
 import java.io.IOException;
 
 import java.net.*;

@@ -1,4 +1,4 @@
-package chat;
+package frontend;
 
 import java.util.ArrayList;
 

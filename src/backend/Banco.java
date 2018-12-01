@@ -1,5 +1,8 @@
-package chat;
+package backend;
 
+import frontend.Cliente;
+import frontend.Mensagem;
+import frontend.Sala;
 import java.io.PrintStream;
 import java.net.Socket;
 import java.util.ArrayList;
