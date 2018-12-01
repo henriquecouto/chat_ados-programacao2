@@ -9,7 +9,6 @@ package backend;
  *
  * @author italo
  */
-import backend.Banco;
 import java.io.IOException;
 
 import java.net.*;
